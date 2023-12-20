@@ -11,5 +11,5 @@ image: gitpod/workspace-full-vnc
 ```
 containers/app/native-gui/.gitpod.yml
 
-Lastly, see it in action!
+Lastly, [see it in action!](https://www.gitpod.io/docs/introduction/learn-gitpod/gitpod-yaml#see-it-in-action)
 
